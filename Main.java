@@ -1,19 +1,17 @@
 class Main {
   public static void main(String[] args) {
    // kindly use appropriate data types for your declaration
-   // declare variables days the debtor defaulted, amount the debtor is to pay per day,amount the debtor paid and assign values to them
+   //declare an array variable and assign the days of the month debtor defaulted,
    
-   //Declare the variable of the total amount the debtor is to pay, the days the debtor paid for, amount the debtor is left to pay, days the debtor has not payed for
+   // declare variables of amount the debtor is to pay per day, and amount the debtor paid and assign values to them
+   
+   // declare all the variables needed for your calculations
 
-   // calculate and print total amount the debtor is to pay
+   // calculate and print total amount the debtor is to pay using for each loop
 
-   // calculate and print the days the debtor paid for
-  
-  // calculate and print the amount whose day was not captured because the amount was incomplete
+   // calculate the days the debtor paid for and print the days in which was paid for starting from the left to the right of the array. Also check if there was a day that the debtor did not pay the complete amount for that day, if yes, print the day and the amount left to pay for that day. 
 
-   // calculate and print amount the debtor is left to pay
-
-   // calculate and print days the debtor has not payed for
+   // calculate amount the debtor is left to pay if he did not pay complete fees and the days not paid for or  check if the debtor paid extra and the extra amount he paid for, or if he paid the exact amount needed to be paid and print likewise
 
    //kindly remove the statement below when you are done with the assignment
     System.out.println("Hello world!");
